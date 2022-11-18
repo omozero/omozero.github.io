@@ -106,14 +106,14 @@
   </url>
   
   <url>
-    <loc>https://deomo.cn/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://deomo.cn/tags/Hexo/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://deomo.cn/tags/Hexo/</loc>
+    <loc>https://deomo.cn/tags/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -136,14 +136,14 @@
   </url>
   
   <url>
-    <loc>https://deomo.cn/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <loc>https://deomo.cn/categories/Hexo/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://deomo.cn/categories/Hexo/</loc>
+    <loc>https://deomo.cn/categories/%E6%97%A5%E5%B8%B8/</loc>
     <lastmod>2022-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
