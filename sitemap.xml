@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://deomo.cn/music/</loc>
+    
+    <lastmod>2022-11-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://deomo.cn/comments/</loc>
+    
+    <lastmod>2022-11-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://deomo.cn/link/</loc>
+    
+    <lastmod>2022-11-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://deomo.cn/archives/</loc>
+    
+    <lastmod>2022-11-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://deomo.cn/tags/</loc>
+    
+    <lastmod>2022-11-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://deomo.cn/categories/</loc>
+    
+    <lastmod>2022-11-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://deomo.cn/posts/fe0c/</loc>
     
     <lastmod>2022-11-17</lastmod>
@@ -92,7 +146,7 @@
 
   
   <url>
-    <loc>https://deomo.cn/tags/Butterfly/</loc>
+    <loc>https://deomo.cn/tags/Markdown/</loc>
     <lastmod>2022-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -106,7 +160,7 @@
   </url>
   
   <url>
-    <loc>https://deomo.cn/tags/Markdown/</loc>
+    <loc>https://deomo.cn/tags/Butterfly/</loc>
     <lastmod>2022-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -122,7 +176,7 @@
 
   
   <url>
-    <loc>https://deomo.cn/categories/Butterfly/</loc>
+    <loc>https://deomo.cn/categories/%E8%AF%AD%E6%B3%95%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2022-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -136,7 +190,7 @@
   </url>
   
   <url>
-    <loc>https://deomo.cn/categories/%E8%AF%AD%E6%B3%95%E6%95%99%E7%A8%8B/</loc>
+    <loc>https://deomo.cn/categories/Butterfly/</loc>
     <lastmod>2022-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
