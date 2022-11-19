@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://deomo.cn/link/</loc>
+    
+    <lastmod>2022-11-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://deomo.cn/posts/349b/</loc>
     
     <lastmod>2022-11-19</lastmod>
@@ -66,15 +75,6 @@
   
   <url>
     <loc>https://deomo.cn/comments/</loc>
-    
-    <lastmod>2022-11-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://deomo.cn/link/</loc>
     
     <lastmod>2022-11-19</lastmod>
     
@@ -164,21 +164,14 @@
 
   
   <url>
-    <loc>https://deomo.cn/tags/Markdown/</loc>
-    <lastmod>2022-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://deomo.cn/tags/Butterfly/</loc>
-    <lastmod>2022-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://deomo.cn/tags/Hexo/</loc>
+    <lastmod>2022-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deomo.cn/tags/Markdown/</loc>
     <lastmod>2022-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -191,21 +184,14 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://deomo.cn/tags/Butterfly/</loc>
+    <lastmod>2022-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
-  
-  <url>
-    <loc>https://deomo.cn/categories/%E8%BD%AC%E8%BD%BD%E5%86%85%E5%AE%B9/</loc>
-    <lastmod>2022-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://deomo.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2022-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://deomo.cn/categories/%E9%9A%8F%E7%AC%94%E8%AE%B0%E5%BD%95/</loc>
@@ -215,7 +201,21 @@
   </url>
   
   <url>
+    <loc>https://deomo.cn/categories/%E8%BD%AC%E8%BD%BD%E5%86%85%E5%AE%B9/</loc>
+    <lastmod>2022-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://deomo.cn/categories/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2022-11-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://deomo.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2022-11-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
